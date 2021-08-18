@@ -120,7 +120,7 @@ Flexbox, Grid, Bootstrap (if you like it) or none of the above.
 | Group 1 | Group 2    | Group 3 | Group 4  |
 | ------- | -------    | ------- | -------  |
 | Arty    | Anastasiia | Darko   | Brisilda |
-| Gary    | Mauricio   | Kevin   | Heydar   |
-| Ratko   | Majd       | Melanie | Rahmonjon|
+| Ratko   | Mauricio   | Kevin   | Heydar   |
+|         | Majd       | Melanie | Rahmonjon|
 |         | Moe        |         | Nisha    |
 
