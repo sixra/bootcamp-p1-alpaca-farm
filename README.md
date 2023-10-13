@@ -10,6 +10,8 @@ Completed: January 2021 - 2 months after learning CSS
 Other contributor: 
 - Arty (https://github.com/awartanian);
 
+https://ratko-sim.github.io/project-alpaca-farm/
+
 # The Happy Alpaca
 
 A client, an owner of an alpaca farm, commissioned you the project of designing
