@@ -10,7 +10,7 @@ Completed: January 2021 - 2 months after learning CSS
 Other contributor: 
 - Arty (https://github.com/awartanian);
 
-https://ratko-sim.github.io/project-alpaca-farm/
+[Alpaca Farm Demo](https://sixra.github.io/bootcamp-p1-alpaca-farm)
 
 # The Happy Alpaca
 
